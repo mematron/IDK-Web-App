@@ -13,4 +13,6 @@ product specs on iPads inside Apple Stores.
 Download the entire repo and open the "index.html" file inside the project 
 folder in a browser.  This will run on most desktop browsers.  However, it 
 was designed to be viewed on 2nd iPhone. That means that it will look best on 
-and iPhone or iPod Touch. 
+and iPhone or iPod Touch.
+
+mematron
