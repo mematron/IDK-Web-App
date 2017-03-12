@@ -7,7 +7,7 @@ Written with Dashcode, IDK (I Don't Know) as in, "I Don't Know. lets find out,"
 provided a quick reference for Specialists to common questions in a retail 
 environment. It ran on an iPhone with a native look and responsiveness.  
 Although this iteration was not deployed on a large scale, it’s base code, 
-UI/UX design was the foundation for the Smart Sign, an iOS app that showed 
+UI/UX design was the foundation for the Smart Sign in 2011, an iOS app that showed 
 product specs on iPads inside Apple Stores.
 
 Download the entire repo and open the "index.html" file inside the project 
