@@ -1,5 +1,5 @@
 # IDK-Web-App
-A helpful web app for Apple Retail
+A helpful web app for Apple Retail (Apple, Inc.)
 
 This is an asynchronous web application I wrote for Apple Retail in 2007.
 It was made to provide a quick reference for Specialists to common
