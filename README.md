@@ -1,7 +1,7 @@
 # IDK-Web-App
 A web app made for Apple Retail
 
-This is a custom web application made at and for Apple Retail in 2008.
+This is a custom web application made for Apple Retail in 2007.
 It was made to provide a quick reference for Specialists to common
 questions on the sales floor.  It was made to run on an iPhone with a
 native look and at speeds.  Although this iteration was not deployed on
